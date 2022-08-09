@@ -1,6 +1,5 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import homero from "../components/img/Homer_Simpson.webp";
 import "../components/frase.css";
 const Frase = (props) => {
   return (
